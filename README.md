@@ -16,6 +16,10 @@ This project demonstrates the implementation of **Deep Q-Learning (DQN)**, a pop
 - [Algorithm Details](#algorithm-details)
 - [Hyperparameters](#hyperparameters)
 - [Results](#results)
+
+https://github.com/user-attachments/assets/5815daba-c844-4f57-bb04-1e95489c2b90
+
+
 - [References](#references)
 
 ## **Introduction**
