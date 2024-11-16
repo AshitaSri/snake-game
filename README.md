@@ -1,6 +1,7 @@
 # **Deep Q-Learning with PyTorch**
 
 This project demonstrates the implementation of **Deep Q-Learning (DQN)**, a popular reinforcement learning algorithm, using **PyTorch**. The agent learns to maximize rewards in a simulated environment using **experience replay** and **target networks** to stabilize training.
+
 https://github.com/user-attachments/assets/5815daba-c844-4f57-bb04-1e95489c2b90
 
 ## **Table of Contents**
