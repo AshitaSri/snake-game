@@ -1,10 +1,7 @@
-Here's a **README** for your Reinforcement Learning project using **Deep Q-Learning (DQN)**:
-
----
-
 # **Deep Q-Learning with PyTorch**
 
 This project demonstrates the implementation of **Deep Q-Learning (DQN)**, a popular reinforcement learning algorithm, using **PyTorch**. The agent learns to maximize rewards in a simulated environment using **experience replay** and **target networks** to stabilize training.
+https://github.com/user-attachments/assets/5815daba-c844-4f57-bb04-1e95489c2b90
 
 ## **Table of Contents**
 
@@ -16,10 +13,6 @@ This project demonstrates the implementation of **Deep Q-Learning (DQN)**, a pop
 - [Algorithm Details](#algorithm-details)
 - [Hyperparameters](#hyperparameters)
 - [Results](#results)
-
-https://github.com/user-attachments/assets/5815daba-c844-4f57-bb04-1e95489c2b90
-
-
 - [References](#references)
 
 ## **Introduction**
@@ -153,7 +146,3 @@ plt.show()
 - **Deep Q-Learning Paper**: ["Playing Atari with Deep Reinforcement Learning"](https://arxiv.org/abs/1312.5602) by Mnih et al.
 - **Markov Decision Processes**: Sutton & Barto's book, "Reinforcement Learning: An Introduction."
 - **PyTorch Documentation**: [PyTorch Official Docs](https://pytorch.org/docs/stable/index.html)
-
----
-
-Feel free to modify this README to fit any additional specifics or changes you make to the project.
